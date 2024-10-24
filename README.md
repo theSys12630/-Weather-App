@@ -66,6 +66,5 @@ Shreyoshi Kar
 * 1.0
     * Initial Release
 
-## License
 
 
